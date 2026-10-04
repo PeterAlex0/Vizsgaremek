@@ -1,2 +1,2 @@
-# Vizsgaremek
+# PKA-Net
 Vizsgaremekhez tartozó repository
