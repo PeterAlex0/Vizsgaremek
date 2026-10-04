@@ -1,0 +1,2 @@
+# Vizsgaremek
+Vizsgaremekhez tartozó repository
